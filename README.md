@@ -102,27 +102,6 @@ IRR kumulatif Real Trading: 3.19 % per tahun
 IRR kumulatif Real Investing: 5.74 % per tahun
 ```
 
-## 🎯 Rekomendasi Investasi
-
-### Untuk Investor Konservatif
-- **Pilih**: Strategi Investing
-- **Alasan**: Return konsisten, volatilitas rendah, resiliensi tinggi
-
-### Untuk Investor Agresif
-- **Pilih**: Kombinasi kedua strategi
-- **Alokasi**: 70% investing (core) + 30% trading (satellite)
-
-### Untuk Pemula
-- **Mulai**: Strategi Investing
-- **Transisi**: Pelajari trading secara bertahap dengan modal kecil
-
-## ⚠️ Disclaimer
-
-- Hasil analisis berdasarkan data historis dan tidak menjamin performa masa depan
-- Trading melibatkan risiko tinggi dan memerlukan skill serta pengalaman
-- Lakukan riset tambahan dan konsultasi sebelum mengambil keputusan investasi
-- Program ini untuk keperluan edukasi dan analisis akademik
-
 ## 📚 Referensi
 
 1. Paper: "Analisis Perbandingan Return Trading dan Investing Saham BBCA 2014-2023"
