@@ -1,0 +1,1 @@
+# Analisis-Perbandingan-Return-Trading-dan-Investing-MetodeNewtonRaphson
